@@ -13,13 +13,16 @@ Based on Launch Date, May and June have the most amount of successful campaigns,
 ### Analysis of Outcomes Based on Goals
 Based on Goals, fund raising amount in betwen 1,000 to 4,999 has the most succesfful amount of campaigns and below 1,000 has the most successful percentage rate.
 ### Challenges and Difficulties Encountered
-There is one challenge that I've encountered is to get pivot table launch date to show as Month/Day/Year Time format. After creating pivot table and selected Date Created Conversion as categories, I have got the final results that's in the assignment requirement already.
+There is one challenge that I've encountered is to get pivot table launch date to show as Month/Day/Year Time format. After creating pivot table and selected Date Created Conversion as categories, I have got the pivot table to show month of the year and did not need to group the "Row Labels". 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+
 Most campaigns are launched during May and May campaigns have the highest successful rate of 67%.
 - What can you conclude about the Outcomes based on Goals?
+
 Fund raising amount in betwen 1,000 to 4,999 has the most succesfful amount of campaigns and below 1,000 has the most successful percentage rate.
 - What are some limitations of this dataset?
+
 There is no clear link between the success rate based on the launching month and the goal each successful campaign has achieved. 
 - What are some other possible tables and/or graphs that we could create?
