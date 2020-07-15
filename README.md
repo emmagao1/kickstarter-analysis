@@ -24,5 +24,9 @@ Most campaigns are launched during May and May campaigns have the highest succes
 Fund raising amount in betwen 1,000 to 4,999 has the most succesfful amount of campaigns and below 1,000 has the most successful percentage rate.
 - What are some limitations of this dataset?
 
-There is no clear link between the success rate based on the launching month and the goal each successful campaign has achieved. 
+*The dataset might be biased depending how data is collected. 
+*The dataset covers 9 years of campaigns, which might not represent the most recent successful trend.
+*The dataset covers a variety type of campaigns, which in Louise's case, we need to under stand campaigns that's related to play. The dataset does not classifying plays by type, and we do not know the relationship between play type and successful percentage.  
 - What are some other possible tables and/or graphs that we could create?
+
+There is no clear link between the success rate based on the launching month and the goal each successful campaign has achieved.
