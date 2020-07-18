@@ -15,6 +15,7 @@ Based on Launch Date, May and June have the most amount of successful campaigns,
 
 ### Analysis of Outcomes Based on Goals
 Based on Goals, fund raising amount in betwen 1,000 to 4,999 has the most succesfful amount of campaigns and below 1,000 has the most successful percentage rate. 
+![Outcomes_vs_Goals](https://github.com/emmagao1/kickstarter-analysis/blob/master/Outcomes_vs_Goals.png)
 ### Challenges and Difficulties Encountered
 There is one challenge that I've encountered is to get pivot table launch date to show as Month/Day/Year Time format. After creating pivot table and selected Date Created Conversion as categories, I have got the pivot table to show month of the year and did not need to group the "Row Labels". 
 ## Results
