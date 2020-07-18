@@ -31,7 +31,6 @@ Fund raising amount in betwen 1,000 to 4,999 has the most succesfful amount of c
  (2) The dataset covers 9 years of campaigns, which might not represent the most recent successful trend.<br>
  (3) The dataset covers a variety type of campaigns, which in Louise's case, we need to understand campaigns that's related to play. The dataset does not classify plays by type, and we do not know the relationship between play type and successful percentage.<br>
 
-- What are some other possible tables and/or graphs that we could create?
-
- (1) Campaign based on duration - most campaigns last around 31 days
- (2) Campaign based on Country location - most popular campaign location is in United States
+- What are some other possible tables and/or graphs that we could create?<br>
+ (1) Campaign based on duration - most campaigns last around 31 days<br>
+ (2) Campaign based on Country location - most popular campaign location is in United States<br>
