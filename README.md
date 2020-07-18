@@ -10,6 +10,9 @@ The analysis is based on the dataset "launch date" and "goals" as those two fact
 The challenges we are facing is to decide which month of the year to launch the campaign. As most of the campaign launching date is around May and it has slightly higher successful rate. With the analysis we are performing, there is no clear link between the success rate based on the launching month and the goal each successful campaign has achieved. 
 ### Analysis of Outcomes Based on Launch Date
 Based on Launch Date, May and June have the most amount of successful campaigns, which is a good indicator that if Louise starts her campaign during those month, she might have higher chance to be successful.
+
+![Theater_Outcomes_vs_Launch](https://github.com/emmagao1/kickstarter-analysis/blob/master/Theater_Outcomes_vs_Launch.png)
+
 ### Analysis of Outcomes Based on Goals
 Based on Goals, fund raising amount in betwen 1,000 to 4,999 has the most succesfful amount of campaigns and below 1,000 has the most successful percentage rate. 
 ### Challenges and Difficulties Encountered
